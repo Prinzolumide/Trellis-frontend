@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/zk-snark-proof-verifier",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/zk-snark-proof-verifier": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/zk-snark-proof-verifier",
+    "origin"
+  ]
+}
